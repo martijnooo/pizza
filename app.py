@@ -113,7 +113,7 @@ def display_crazy_message():
     """Displays the personalized message with max energy."""
     st.markdown(f"""
         # 🚨 DANGER: PIZZA INCOMING AT WARP SPEED\! {random.choice(EMOJIS)}
-        ## TIME IS MELTING. THE PIZZA IS WAITING. WE ARE UNHINGED. {random.choice(EMOJIS)} {random.choice(EMOJIS)}
+        ## TIME IS MELTING. THE PIZZA IS WAITING. WE ARE READDYY. {random.choice(EMOJIS)} {random.choice(EMOJIS)}
     """)
 
 def display_chaotic_image_area():
